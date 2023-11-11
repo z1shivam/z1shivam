@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **NextJS.**
 
-- 👨‍💻 All of my projects are available at [z1shivam.web.app](z1shivam.web.app)
+- 👨‍💻 My Portfolio Website [z1shivam.web.app](https://z1shivam.web.app)
 
 - 💬 Ask me about **ReactJS, JavaScript, TailwindCSS.**
 
