@@ -55,3 +55,5 @@
 <br>
 <p ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=z1shivam&show_icons=true&locale=en&layout=compact" alt="z1shivam" /></p>
 <br>
+<figure><embed src="https://wakatime.com/share/@018b9e70-64ad-415d-9db9-655dd39f7bf8/aa382b1b-5b05-46bc-ad32-831839ae8471.svg"></embed></figure>
+<br>
