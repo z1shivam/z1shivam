@@ -54,6 +54,4 @@
 </p>
 <br>
 <p ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=z1shivam&show_icons=true&locale=en&layout=compact" alt="z1shivam" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=z1shivam&" alt="z1shivam" /></p>
 <br>
