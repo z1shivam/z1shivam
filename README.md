@@ -6,6 +6,11 @@
 
 <p align="left">I am a Software Developer with JavaScript as my primary programming tool.</p>
 
+## Featured Projects
+1. **[Auth-FullStack App](https://github.com/z1shivam/learning-auth-attempt6)** - A sophisticated full-stack authentication system built with NextJS and AuthJS.
+2. **[SQL Interface](https://github.com/z1shivam/SQLInterface)** - A full-stack app for student learning SQL. Built with ExpressJS.
+3. **[GenPass](https://github.com/z1shivam/GenPass)** - A secure and fast web based pass-phrase generator. No more weird looking passwords.
+
 ###
 
 <div align="left">
@@ -15,7 +20,9 @@
 
 ###
 
-<br clear="both">
+<h2 align="left">Tech I can work with</h2>
+
+###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
@@ -55,25 +62,17 @@
 
 <div align="left">
   <a href="https://www.linkedin.com/in/z1shivam/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="64" height="40" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="58" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://twitter.com/z1_shivam" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="64" height="40" alt="twitter logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="58" height="40" alt="twitter logo"  />
   </a>
   <a href="https://instagram.com/z1_shivam" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="64" height="40" alt="instagram logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="58" height="40" alt="instagram logo"  />
   </a>
   <a href="https://youtube.com/kumarshivam" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="64" height="40" alt="youtube logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="58" height="40" alt="youtube logo"  />
   </a>
 </div>
-
-###
-
-<h2 align="left">Featured Projects</h2>
-
-###
-
-<p align="left"></p>
 
 ###
