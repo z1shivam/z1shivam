@@ -1,9 +1,4 @@
 <h1 align="left">🙏 Namaste, I am Shivam.</h1>
-
-###
-
-<br clear="both">
-
 <p align="left">I am a Software Developer with JavaScript as my primary programming tool.</p>
 
 ## Featured Projects
