@@ -9,8 +9,8 @@
 ###
 
 <div align="left">
-  <img  media="(prefers-color-scheme: dark)" src="https://github-readme-stats.vercel.app/api/top-langs?username=z1shivam&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nord&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img  media="(prefers-color-scheme: dark)" src="https://github-profile-trophy.vercel.app?username=z1shivam&theme=onedark&column=2&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=z1shivam&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nord&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=z1shivam&theme=onedark&column=2&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
 </div>
 
 ###
