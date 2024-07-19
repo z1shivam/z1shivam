@@ -4,7 +4,7 @@
 ## Featured Projects
 1. **[Auth-FullStack App](https://github.com/z1shivam/learning-auth-attempt6)** - A sophisticated full-stack authentication system built with NextJS and AuthJS.
 2. **[SQL Interface](https://github.com/z1shivam/SQLInterface)** - A full-stack app for student learning SQL. Built with ExpressJS.
-3. **[GenPass](https://github.com/z1shivam/GenPass)** - A secure and fast web based pass-phrase generator. No more weird looking passwords.
+3. **[GenPass Browser Extension](https://github.com/z1shivam/genpass-extension)** - A secure and fast pass-phrase generator. No more weird looking passwords.
 
 ###
 
