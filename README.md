@@ -59,10 +59,10 @@
   <a href="https://www.linkedin.com/in/z1shivam/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="58" height="40" alt="linkedin logo"  />
   </a>
-  <a href="https://twitter.com/z1_shivam" target="_blank">
+  <a href="https://twitter.com/z1shivam" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="58" height="40" alt="twitter logo"  />
   </a>
-  <a href="https://instagram.com/z1_shivam" target="_blank">
+  <a href="https://instagram.com/z1shivam" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="58" height="40" alt="instagram logo"  />
   </a>
   <a href="https://youtube.com/kumarshivam" target="_blank">
